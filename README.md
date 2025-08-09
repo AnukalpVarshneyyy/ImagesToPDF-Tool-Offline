@@ -1,33 +1,25 @@
-📸 Image to PDF Converter
+📸 Image to PDF Converter:
+
 A clean, modern Image to PDF Converter built with Python using customtkinter for a beautiful UI and Pillow for image processing.
 Easily select multiple images and convert them into a single PDF in just a few clicks.
 
-✨ Features
+✨ Features:
+
 Modern UI with customtkinter
-
 Multi-image selection support
-
 One-click PDF conversion
-
 Supports PNG, JPG, JPEG, BMP, TIFF
-
 Lightweight & fast — no internet required
-
-Cross-platform (Windows, Mac, Linux)
+Only For Windows 10 And Above
 
 🖥️ Screenshots
-(Add your screenshots here)
+[(Preview Screenshot)](https://github.com/AnukalpVarshneyyy/ImagesToPDF-Tool-Offline/blob/main/preview.PNG)
 
 📦 Requirements
-bash
-Copy
-Edit
-pip install customtkinter pillow
-🚀 How to Run
-bash
-Copy
-Edit
-python main.py
-🏆 Credits
+
+Modules: customtkinter, pillow
+
+🚀 How to Run: Run The .EXE File Given In Latest Release
+
 Developed & Presented by Anukalp Varshney
 
